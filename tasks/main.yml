@@ -1,7 +1,5 @@
 ---
 - include_role:
-    name: andrewrothstein.unarchive-deps
-- include_role:
     name: andrewrothstein.temurin
   vars:
     openjdk_app: jdk
